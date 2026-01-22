@@ -1,8 +1,6 @@
 # Ignore large raw datasets
 data/household_power_consumption.csv
 
-# Ignore model files if needed
-model/*.pkl
 
 # Python cache
 __pycache__/
