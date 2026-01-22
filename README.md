@@ -1,5 +1,12 @@
 # 🏠 Household Power Consumption Prediction using Machine Learning
 
+
+## 🌐 Live Demo
+
+Access the live deployed application here:  
+https://household-power-consumption-mlbranchm-wedijzygfvuzjdug7xg8bs.streamlit.app
+
+
 An end-to-end Machine Learning web application that predicts household electricity consumption and cost based on user inputs such as number of days, lights, fans, and other appliances. The system also provides monthly and yearly projections, carbon emission estimates, interactive visualizations, and downloadable energy reports.
 
 ---
